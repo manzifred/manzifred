@@ -12,11 +12,6 @@ Full-Stack Developer • Software Engineering Student • Java & React Developer
 🚀 <i>Passionate about building clean, efficient, scalable and maintainable software systems.</i>
 </p>
 
-<p align="center">
-<a href="https://portfolio-website-chi-ten-54.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/manzi-fred-b905232b1/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -34,7 +29,7 @@ Full-Stack Developer • Software Engineering Student • Java & React Developer
 
 # 🚀 About Me
 
-I'm a Software Engineering student and junior Full-Stack Developer passionate about building modern, scalable software solutions.
+I'm a Software Engineering student at AUCA University and junior Full-Stack Developer passionate about building modern, scalable software solutions.
 
 🔭 **Currently working on**
 
@@ -142,16 +137,6 @@ An Android application focused on personalized emotional support.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manzifred&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -168,8 +153,6 @@ An Android application focused on personalized emotional support.
 
 📧 **fredmanzi005@gmail.com**
 
-🌐 Portfolio:
-https://portfolio-website-chi-ten-54.vercel.app/
 
 💼 LinkedIn:
 https://www.linkedin.com/in/manzi-fred-b905232b1/
