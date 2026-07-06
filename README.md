@@ -1,6 +1,5 @@
-# <p align="center">MANZI Fred</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header&text=Your%20Name&fontSize=40" alt="header" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header&text=MANZI%20Fred&fontSize=40" alt="MANZI Fred Banner" />
 </p>
 
 <p align="center">
@@ -8,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-website-chi-ten-54.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/search/results/all/?keywords=MANZI%20Fred" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,7 +19,7 @@ I'm a software engineering student and junior developer focused on building scal
 
 - 🔭 **Currently working on:** A Land Registration and Management System, and HavenHeart (emotional support app).
 - 🌱 **Learning & Exploring:** Advanced architecture, state management, and robust API optimizations.
-- 💼 **Open to:** Freelance projects, part-time work, and full-time software development roles and internerships.
+- 💼 **Open to:** Freelance projects, part-time work, full-time software development roles, and internships.
 
 ---
 
@@ -31,6 +30,8 @@ I'm a software engineering student and junior developer focused on building scal
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Backend Development
@@ -42,6 +43,7 @@ I'm a software engineering student and junior developer focused on building scal
 ### Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -56,7 +58,7 @@ A secure system designed to manage and streamline land ownership records seamles
 
 ### 💖 HavenHeart
 An application designed to provide intuitive user experiences and tailored emotional support styles.
-- **Tech:** Android Studio / Java / React Native (Adjust based on your setup)
+- **Tech:** Android Studio, Java
 - **Features:** Dynamic onboarding flows, customized layout preference tracking.
 
 ---
