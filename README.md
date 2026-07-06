@@ -1,80 +1,183 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header&text=MANZI%20Fred&fontSize=40" alt="MANZI Fred Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=MANZI%20Fred&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Manzi Fred</h1>
+
+<h3 align="center">
+Full-Stack Developer • Software Engineering Student • Java & React Developer
+</h3>
+
+<p align="center">
+🚀 <i>Passionate about building clean, efficient, scalable and maintainable software systems.</i>
 </p>
 
 <p align="center">
-  🚀 <i>Full-Stack Developer passionate about building clean, efficient, and maintainable software systems.</i>
+<a href="https://portfolio-website-chi-ten-54.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manzi-fred-b905232b1/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:fredmanzi005@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-website-chi-ten-54.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/manzi-fred-b905232b1/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=manzifred&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a software engineering student and junior developer focused on building scalable full-stack applications.
+I'm a Software Engineering student and junior Full-Stack Developer passionate about building modern, scalable software solutions.
 
-- 🔭 **Currently working on:** A Land Registration and Management System, and HavenHeart (emotional support app).
-- 🌱 **Learning & Exploring:** Advanced architecture, state management, and robust API optimizations.
-- 💼 **Open to:** Freelance projects, part-time work, full-time software development roles, and internships.
+🔭 **Currently working on**
 
----
+- Land Registration & Management System
+- HavenHeart (Emotional Support Platform)
 
-## 💻 Tech Stack
+🌱 **Currently Learning**
 
-### Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+- Advanced Spring Boot
+- System Architecture
+- State Management
+- API Performance Optimization
 
-### Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+💼 **Open To**
 
-### Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- Full-Time Opportunities
+- Internships
+- Freelance Projects
+- Remote Software Engineering Roles
 
 ---
 
-## 🎯 Featured Projects
+# 💻 Tech Stack
 
-### 🌟 Land Registration & Management System
-A secure system designed to manage and streamline land ownership records seamlessly.
-- **Tech:** React, Spring Boot, PostgreSQL, Tailwind CSS
-- **Features:** Secure user authentication, digital records overview, clear dashboard layouts.
+### Frontend
 
-### 💖 HavenHeart
-An application designed to provide intuitive user experiences and tailored emotional support styles.
-- **Tech:** Android Studio, Java
-- **Features:** Dynamic onboarding flows, customized layout preference tracking.
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring"/>
+
+</p>
+
+### Database & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,git,androidstudio,vscode"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌟 Featured Projects
+
+## 🏡 Land Registration & Management System
+
+Secure web application for managing land ownership records.
+
+**Tech Stack**
+
+- React
+- Spring Boot
+- PostgreSQL
+- TailwindCSS
+
+### Features
+
+- Secure Authentication
+- Digital Land Records
+- Responsive Dashboard
+- Property Management
+
+---
+
+## ❤️ HavenHeart
+
+An Android application focused on personalized emotional support.
+
+**Tech Stack**
+
+- Java
+- Android Studio
+
+### Features
+
+- Personalized User Experience
+- Dynamic Onboarding
+- Mood-Based Preferences
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manzifred&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manzifred&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzifred&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzifred&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=manzifred&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📬 Get In Touch
-- **Email:** fredmanzi005@gmail.com
-- **Location:** Kigali, Rwanda
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manzifred&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manzifred&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📬 Connect With Me
+
+📍 Kigali, Rwanda
+
+📧 **fredmanzi005@gmail.com**
+
+🌐 Portfolio:
+https://portfolio-website-chi-ten-54.vercel.app/
+
+💼 LinkedIn:
+https://www.linkedin.com/in/manzi-fred-b905232b1/
+
+---
+
+<p align="center">
+
+<i>"Code is not just about solving problems, it's about creating solutions that last."</i>
+
+</p>
