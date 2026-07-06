@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://portfolio-website-chi-ten-54.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/search/results/all/?keywords=MANZI%20Fred" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manzi-fred-b905232b1/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
