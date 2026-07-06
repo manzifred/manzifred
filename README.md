@@ -58,7 +58,7 @@ I'm a Software Engineering student at AUCA University and junior Full-Stack Deve
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,js,html"/>
 
 </p>
 
